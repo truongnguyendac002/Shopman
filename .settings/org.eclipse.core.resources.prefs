@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/NVQuanLy708/GDNhapHangHoa708.jsp=UTF-8
+encoding//src/DAO708/DAO708.java=UTF-8
+encoding//src/DAO708/KhachHang708DAO.java=UTF-8
+encoding//src/DAO708/ThanhVien708DAO.java=UTF-8
+encoding//src/controller708/DangKyServlet.java=UTF-8
+encoding//src/controller708/ThemHangNhapServlet.java=UTF-8
+encoding//src/controller708/XacNhanNCCServlet.java=UTF-8
+encoding//src/controller708/XacNhanThanhToanServlet.java=UTF-8
+encoding//src/model708/KhachHang708.java=UTF-8
